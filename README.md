@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on BMI and Income
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+Using data from the National Longitudinal Survey of Adolescent to Adult Health, you will examine the relationship between body mass index and income. You will also explore how this relationship varies by gender.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the relationship between a person's income and their body mass index (BMI)?
+2. How does the relationship between BMI and income vary by gender?
 
 ## Technical Details
 
